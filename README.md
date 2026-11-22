@@ -1,5 +1,4 @@
-<h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, I'm Diego </h1>
-
+<h1>Hi 👋, I'm Diego </h1>
 <p>
   I design and build software solutions for mobile, web and VR.<br> Always learning, and into open source, software architecture and AI.
 </p>
