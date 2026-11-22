@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, I'm Diego <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h1>
 
-<h2>I'm a Computer engineering student</h2>
+<h2>I design and build software solutions for mobile, web and VR. · Always learning, and into open source, software architecture and AI.</h2>
 <br>
 
 <img align ="right" src = "https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/linux.png" width="250" height="250">
