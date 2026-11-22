@@ -3,12 +3,13 @@
 <h2>I design and build software solutions for mobile, web and VR. · Always learning, and into open source, software architecture and AI.</h2>
 <br>
 
-<img align ="right" src = "https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/linux.png" width="250" height="250">
+## Featured projects
 
-- 🐧 Linux Enthusiast: Daily driver of Arch, Debian & Kali Linux.
-- 🎮 Game Dev: Working with Godot Engine & fan of retro games.
-- 👯 I’m looking to collaborate on open source
-- 🌐 Full Stack: Building modern applications with Next.js, React and PostgreSQL.
+- **[Amazonia](https://amazonia-marketplace-1.onrender.com/)**: A marketplace for Amazonian communities where members trade goods and vote on decisions, with blockchain-based data governance. Full stack developer, I designed and built the blockchain integration. `React` `TypeScript` `Solidity`
+
+- **[Aqualia](https://aqualia.netlify.app/)**: An interactive website that informs people about water in the Guayana region. Frontend developer focused on UX. `React` `TypeScript` `Tailwind`
+
+- **[Clínica Jurídica](https://github.com/notoriussss/Clinica-Juridica)**: A system to manage a law clinic's applicants, cases and appointments, built as a university project at UCAB. Full stack developer, I designed the API endpoints and the UI. `Next.js` `TypeScript` `PostgreSQL`
 
 <br>
 
