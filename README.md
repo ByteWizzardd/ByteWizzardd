@@ -2,7 +2,6 @@
 
 <h2>I design and build software solutions for mobile, web and VR. · Always learning, and into open source, software architecture and AI.</h2>
 <br>
-
 ## Featured projects
 
 - **[Amazonia](https://amazonia-marketplace-1.onrender.com/)**: A marketplace for Amazonian communities where members trade goods and vote on decisions, with blockchain-based data governance. Full stack developer, I designed and built the blockchain integration. `React` `TypeScript` `Solidity`
